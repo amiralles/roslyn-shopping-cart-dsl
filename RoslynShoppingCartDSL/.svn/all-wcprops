@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL
+END
+Order.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/Order.cs
+END
+RoslynPoweredShoppingCartDSL.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/RoslynPoweredShoppingCartDSL.csproj
+END
+ShoppingCartScriptEngine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/ShoppingCartScriptEngine.cs
+END
+StringExtensionsFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/StringExtensionsFixture.cs
+END
+Customer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/Customer.cs
+END
+CustomerCreditLine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/CustomerCreditLine.cs
+END
+StrnigExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/StrnigExtensions.cs
+END
+EvalRulesFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/EvalRulesFixture.cs
+END
+SetupDslFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/roslyn-powered-dsl/!svn/ver/2/RoslynPoweredShoppingCartDSL/SetupDslFixture.cs
+END

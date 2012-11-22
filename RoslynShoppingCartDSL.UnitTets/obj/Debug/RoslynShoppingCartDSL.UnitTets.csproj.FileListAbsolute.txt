@@ -1,0 +1,14 @@
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\obj\Debug\RoslynShoppingCartDSL.UnitTets.csprojResolveAssemblyReference.cache
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\RoslynShoppingCartDSL.UnitTets.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\RoslynShoppingCartDSL.UnitTets.pdb
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\nunit.framework.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\RoslynShoppingCartDSL.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\Roslyn.Compilers.CSharp.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\Roslyn.Compilers.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\RoslynShoppingCartDSL.pdb
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\nunit.framework.xml
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\Roslyn.Compilers.CSharp.xml
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\Roslyn.Compilers.xml
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\obj\Debug\RoslynShoppingCartDSL.UnitTets.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\obj\Debug\RoslynShoppingCartDSL.UnitTets.pdb
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.UnitTets\bin\Debug\FastColoredTextBox.dll

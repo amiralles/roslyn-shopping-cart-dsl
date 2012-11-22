@@ -1,0 +1,49 @@
+namespace RoslynPoweredShoppingCartDSL {
+    using System;
+    using System.Collections.Generic;
+    using Roslyn.Scripting;
+    using Roslyn.Scripting.CSharp;
+
+    public class ShoppingCartScriptEngine {
+        readonly ScriptEngine _engine;
+
+        public ShoppingCartScriptEngine(Order order) {
+            if (order == null)
+                throw new ArgumentNullException("order", "cannot be null");
+            Order = order;
+
+
+            //setup the Roslyn engine
+            _engine = new ScriptEngine(
+                new[] { typeof(ShoppingCartScriptEngine).Assembly },
+                new List<string> { "RoslynPoweredShoppingCartDSL" });
+        }
+
+        public Order Order { get; private set; }
+
+        public decimal OrderAmmountIs {
+            get {
+                return Order.TotalAmmount;
+            }
+        }
+
+        public bool ItIsAGoodCreditCustomer {
+            get {
+                return Order.Customer.CreditLine == CustomerCreditLine.Good;
+            }
+        }
+
+        public void ShippingFeeItIsOnTheBuyer(decimal ammount) {
+            Order.TotalAmmount += ammount;
+        }
+
+        public void ApplyDiscount(decimal percent) {
+            Order.TotalAmmount -= Order.TotalAmmount * percent / 100;
+        }
+
+        public void Eval(string src) {
+            var session = Session.Create(this);
+            _engine.Execute(src.ToCSharp(), session);
+        }
+    }
+}

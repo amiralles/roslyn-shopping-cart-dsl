@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="002D7843-BEE1-4F45-BF75-78E0F0C41ABA" ModuleId="RoslynShoppingCartDSL" />
+  <Module PersistentId="Roslyn.Compilers.CSharp, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="Roslyn.Compilers.CSharp" />
+  <Module PersistentId="F3A21203-76A5-455E-9B80-99B1A50B141C" ModuleId="RoslynShoppingCartDSL.UnitTets" />
+  <Module PersistentId="42CBE326-492B-41BF-A91C-A1992E9E1A44" ModuleId="RoslynShoppingCartDSL.Demo" />
+</Modules>

@@ -1,0 +1,16 @@
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\RoslynShoppingCartDSL.Demo.exe.config
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\RoslynShoppingCartDSL.Demo.exe
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\RoslynShoppingCartDSL.Demo.pdb
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\obj\Debug\RoslynShoppingCartDSL.Demo.csprojResolveAssemblyReference.cache
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\obj\Debug\RoslynShoppingCartDSL.Demo.frmMain.resources
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\obj\Debug\RoslynShoppingCartDSL.Demo.Properties.Resources.resources
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\obj\Debug\RoslynShoppingCartDSL.Demo.csproj.GenerateResource.Cache
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\obj\Debug\RoslynShoppingCartDSL.Demo.exe
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\obj\Debug\RoslynShoppingCartDSL.Demo.pdb
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\RoslynShoppingCartDSL.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\Roslyn.Compilers.CSharp.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\Roslyn.Compilers.dll
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\RoslynShoppingCartDSL.pdb
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\Roslyn.Compilers.CSharp.xml
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\Roslyn.Compilers.xml
+C:\Users\amiralles\Dev\posts\Roslyn-Dsl\RoslynShoppingCartDSL.Demo\bin\Debug\FastColoredTextBox.dll

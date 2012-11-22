@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/roslyn-powered-dsl/!svn/ver/1/packages/NUnit.2.6.1
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/roslyn-powered-dsl/!svn/ver/1/packages/NUnit.2.6.1/license.txt
+END
+NUnit.2.6.1.nupkg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/roslyn-powered-dsl/!svn/ver/1/packages/NUnit.2.6.1/NUnit.2.6.1.nupkg
+END

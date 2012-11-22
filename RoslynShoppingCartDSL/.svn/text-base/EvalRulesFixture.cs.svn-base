@@ -1,0 +1,44 @@
+﻿namespace RoslynPoweredShoppingCartDSL {
+	using NUnit.Framework;
+
+	[TestFixture]
+	public class EvalRulesFixture {
+
+		/* Shopping cart DSL on Roslyn
+		   Ejemplo de uso
+		   
+			when it_is_a_bad_credit_customer and order_ammount_is > 10000:
+				ask_supervision
+			 
+			when is_a_good_credit_customer and order_ammount_is > 10000:
+				apply_discount(10%)
+			 
+			when order_ammount_is < 100:
+				shipping_fee_it_is_on_the_buyer($10)
+		 */
+
+		[Test]
+		public void when_order_ammount_is_less_than_100_charge_shipping_fee_to_the_customer() {
+			const string src =
+				"when order_ammount_is < 100:\r\n" +
+				"   shipping_fee_it_is_on_the_buyer($10)";
+
+			var dsl = new ShoppingCartScriptEngine(new Order { TotalAmmount = 99 });
+			dsl.Eval(src);
+			Assert.AreEqual(109d, dsl.OrderAmmountIs);
+		}
+
+
+		[Test]
+		public void when_order_ammount_is_greater_than_10000_and_is_a_good_credit_customer_apply_10_percent_discount() {
+			const string src =
+				"when it_is_a_good_credit_customer and order_ammount_is > 10000:\r\n" +
+				"   apply_discount(10%)";
+
+			var dsl = new ShoppingCartScriptEngine(new Order { TotalAmmount = 11 * 1000 });
+			dsl.Eval(src);
+
+			Assert.AreEqual(9900, dsl.OrderAmmountIs);
+		}
+	}
+}

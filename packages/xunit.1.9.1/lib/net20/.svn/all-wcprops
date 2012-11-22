@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/roslyn-powered-dsl/!svn/ver/2/packages/xunit.1.9.1/lib/net20
+END
+xunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/roslyn-powered-dsl/!svn/ver/2/packages/xunit.1.9.1/lib/net20/xunit.xml
+END
+xunit.dll.tdnet
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/roslyn-powered-dsl/!svn/ver/2/packages/xunit.1.9.1/lib/net20/xunit.dll.tdnet
+END
